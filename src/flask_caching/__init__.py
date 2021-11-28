@@ -33,7 +33,7 @@ from werkzeug.utils import import_string
 from flask_caching.backends.base import BaseCache
 from flask_caching.backends.simplecache import SimpleCache
 
-__version__ = "1.10.1"
+__version__ = "1.11.0.dev1"
 
 logger = logging.getLogger(__name__)
 
